@@ -76,7 +76,7 @@
 
     <color name="dashboard_background_color">#ffe1e1e0</color>
     <color name="switchbar_background_color">#ff37474f</color>
-    <color name="switch_accent_color">#ff7fcac3</color>
+    <color name="switch_accent_color">#ff222222</color>
 
     <color name="wifi_divider">#ffe0e0e0</color>
     <color name="sim_noitification">@*android:color/black</color>
